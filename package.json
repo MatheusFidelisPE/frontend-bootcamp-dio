@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --o",
+    "deploy": "ng deploy --base-href=https://github.com/MatheusFidelisPE/frontend-bootcamp-dio",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
